@@ -1,0 +1,6 @@
+![Simulator Screenshot - iPhone 15 - 2024-06-02 at 17 15 39](https://github.com/Subhash8731/ReactNative_Assignment/assets/65072600/02c0c43f-e52b-4583-8e0f-62dad393a982)
+![Simulator Screenshot - iPhone 15 - 2024-06-02 at 17 15 43](https://github.com/Subhash8731/ReactNative_Assignment/assets/65072600/af03e14b-6582-4d5e-a270-96f65e3f756c)
+![Simulator Screenshot - iPhone 15 - 2024-06-02 at 17 15 33](https://github.com/Subhash8731/ReactNative_Assignment/assets/65072600/2825b41a-549c-41b2-bc83-9c78db245855)
+![Simulator Screenshot - iPhone 15 - 2024-06-02 at 17 15 19](https://github.com/Subhash8731/ReactNative_Assignment/assets/65072600/5dda91fd-4752-45fa-b1f4-d8991ac1e378)
+![Simulator Screenshot - iPhone 15 - 2024-06-02 at 17 15 23](https://github.com/Subhash8731/ReactNative_Assignment/assets/65072600/7f4159e0-e0fe-4d7c-919d-89bb6b678e9e)
+![Simulator Screenshot - iPhone 15 - 2024-06-02 at 17 15 26](https://github.com/Subhash8731/ReactNative_Assignment/assets/65072600/6275587b-28d0-45c8-aba1-5a3d3bd908b5)
